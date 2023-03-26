@@ -8,6 +8,13 @@ h1 {
   margin-top: 50px;
   color: white;
 }
+h2{
+  text-align: center;
+  color: #7B68EE;
+}
+h2 span{
+  color: red;
+}
 
 .tabe1,
 .tabe2,
