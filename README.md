@@ -1,3 +1,3 @@
 # TABELA-HEXADECIMAL
 
-<img src="fotos/tabelahexa.png" alt="">
+<img src="img/tabelahexa.png" alt="">

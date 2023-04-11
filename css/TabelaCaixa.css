@@ -1,0 +1,79 @@
+
+section{
+ 
+    margin-top: 5%;
+    left: 5%;
+  }
+  .caixaPai{
+    max-width: 800%;
+    max-height: 400px;
+  }
+  /* caixa azul*/
+  
+   .caixa1{
+  border: 2px white solid;
+    display: inline-block;
+  height: 180px;
+    width: 300px;
+  
+    background-color: blue;
+  }
+  
+  .caixa1 h2{
+  
+    color: white;
+    text-align: center;
+    left: 25%;
+    margin-top: 22%;
+  }
+  /* caixa azul*/
+  
+  .caixa2{
+  
+    display: inline-block;
+    height: 180px;
+      width: 300px;
+    border: 2px white solid;
+    
+      background-color:  #8A2BE2;
+    }
+    
+    .caixa2 h2{
+   color: white;
+      text-align: center;
+      left: 25%;
+      margin-top: 22%;
+    }
+  
+    /**/
+    .caixa3{
+      display: inline-block;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+      background-color:#A52A2A;
+      
+    }
+  
+    .caixa3 h2{
+      color: white;
+      text-align: center;
+      left: 25%;
+     margin-top: 22%;
+    }
+  
+    .caixa4{
+      margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+      background-color: #DEB887;
+     
+    }
+  
+    .caixa4 h2{
+      color: white;
+      text-align: center;
+      left: 25%;
+     margin-top: 22%;
+    }
