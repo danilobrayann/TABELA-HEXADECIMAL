@@ -111,5 +111,23 @@ td{
 }
 
 .tudo{
+  max-width: 100%;
   display: inline;
+}
+
+footer{
+  margin-top: 4%;
+  padding: 8%;
+  background-color: transparent;
+  align-items: center;
+}
+
+.icone77{
+  margin-left: 45%;
+}
+footer a {
+  display: inline-block;
+ margin-left: 5%;
+  color: white;
+  font-size: 28px;
 }

@@ -1,12 +1,12 @@
 
-section{
+.section1{
  
     margin-top: 5%;
     left: 5%;
   }
   .caixaPai{
-    max-width: 800%;
-    max-height: 400px;
+    max-width: 100%;
+    max-height: 80%;
   }
   /* caixa azul*/
   
@@ -63,6 +63,7 @@ section{
     }
   
     .caixa4{
+        display: inline-block;
       margin-top: 2%;
       height: 180px;
         width: 300px;
@@ -77,3 +78,133 @@ section{
       left: 25%;
      margin-top: 22%;
     }
+
+ .caixa5{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:#5F9EA0;
+   
+ }
+
+ .caixa5 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa6{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color: #7FFF00; 
+   
+ }
+
+ .caixa6 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa7{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:  #D2691E;
+ }
+
+ .caixa7 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa8{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color: #FF7F50;
+ }
+
+ .caixa8 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa9{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:  #6495ED;
+ }
+
+ .caixa9 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa10{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:     #FFF8DC;
+ }
+
+ .caixa10 h2{
+    color: black;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa11{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:  #DC143C;
+ }
+
+ .caixa11 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
+
+ .caixa12{
+    display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+    background-color:  #00FFFF;
+ }
+
+ .caixa12 h2{
+    color: white;
+    text-align: center;
+    left: 25%;
+   margin-top: 22%;
+ }
