@@ -105,9 +105,10 @@ td{
  #unico{
   color: red;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  border-radius: 20px;
-  background-color: white;
+  border-radius: 10px;
+  background-color: black;
   text-align: center;
+  font-size: 14px;
 }
 
 .tudo{
