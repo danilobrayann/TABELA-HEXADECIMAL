@@ -208,3 +208,74 @@
     left: 25%;
    margin-top: 22%;
  }
+
+
+ .caixa13{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color: #00008B;
+ }
+
+ .caixa13 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+
+.caixa14{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color: #008B8B;
+ }
+
+ .caixa14 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+.caixa15{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color: #B8860B;
+ }
+
+ .caixa15 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+
+.caixa16{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color: #A9A9A9;
+ }
+
+ .caixa16 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}

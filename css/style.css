@@ -126,6 +126,10 @@ footer{
 .icone77{
   margin-left: 45%;
 }
+
+footer a:hover{
+  color: black;
+}
 footer a {
   display: inline-block;
  margin-left: 5%;
