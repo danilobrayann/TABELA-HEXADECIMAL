@@ -279,3 +279,73 @@
   left: 25%;
  margin-top: 22%;
 }
+
+
+.caixa17{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color: #006400;
+ }
+
+ .caixa17 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+
+.caixa18{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color:  #BDB76B;
+ }
+
+ .caixa18 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+.caixa19{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color:  #8B008B;
+ }
+
+ .caixa19 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
+
+.caixa20{
+  
+  display: inline-block;
+    margin-top: 2%;
+      height: 180px;
+        width: 300px;
+      border: 2px white solid;
+  background-color:   #556B2F;
+ }
+
+ .caixa20 h2{
+  color: white;
+  text-align: center;
+  left: 25%;
+ margin-top: 22%;
+}
