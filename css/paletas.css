@@ -1,8 +1,10 @@
 
 body{
-  background: linear-gradient(to top, black,grey);
+  background: linear-gradient(to bottom, red,grey);
 }
-
+.primaria-color{
+margin-top: 5%;
+}
 
 .paleta1{
     margin-top: 5%;
