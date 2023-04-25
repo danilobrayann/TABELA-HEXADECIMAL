@@ -1,0 +1,16 @@
+nav{
+    padding: 12px;
+   
+    text-align: center;
+   
+  }
+  
+  nav a {
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 5%;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+  }
