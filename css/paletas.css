@@ -100,3 +100,54 @@ margin-top: 5%;
     margin-left: 15%;
     margin-top: 15%;
 }
+
+/* paleta 04*/
+
+
+
+/* linear gradiente 30 */
+.section-paleta-secundaria{
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.paleta30{
+    margin-top: 5%;
+    width: 80px;
+   background: linear-gradient(to top, #00FA9A , #FF0000);
+    height: 380px;
+    border-radius: 50px;
+   
+    
+}
+
+.button-paleta30{
+    border: none;
+    background: linear-gradient(to top, #00FA9A , #FF0000);
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+
+
+.paleta31{
+    margin-top: 5%;
+    width: 80px;
+   background: linear-gradient(to top, #00FF00 , #FFFF00);
+    height: 380px;
+    border-radius: 50px;
+   
+    
+}
+
+.button-paleta31{
+    border: none;
+    background: linear-gradient(to top, #00FF00 , #FFFF00);
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
