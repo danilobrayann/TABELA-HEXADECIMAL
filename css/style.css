@@ -1,6 +1,7 @@
 @import url(TabelaCaixa.css);
 @import url(paletas.css);
 @import url(MenuNav.css);
+@import url(paletasAltas.css);
 
 * {
   margin: 0;

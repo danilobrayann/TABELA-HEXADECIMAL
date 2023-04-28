@@ -1,0 +1,184 @@
+
+
+
+
+body{
+    background-color: black;
+}
+.principal{
+    background-color: black;
+}
+
+.section1{
+    width: 80em;
+    height: 50em;
+    
+    left: 10%;
+    position: relative;
+    margin-top: 5%;
+    background: linear-gradient( to left, SeaGreen,LimeGreen,DodgerBlue,DarkViolet,Black );
+}
+
+.h3paleta{
+    color: white;
+    padding: 5%;
+    writing-mode: vertical-rl;
+    
+}
+.h4paleta{
+    color: white;
+    padding: 5%;
+    
+    
+}
+
+
+
+.primaria{
+    position: relative;
+
+}
+ .PaletaAlta1{
+   background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    width: 250px;
+    height: 600px;
+    transform: translate(-50%, -50%) rotate(-100deg);
+}
+
+.PaletaAlta1:hover{
+width: 500px;
+}
+
+
+.PaletaAlta2{
+    background-color: DarkViolet;
+     position: absolute;
+     top: 50%;
+     left: 40%;
+     width: 250px;
+     height: 600px;
+     transform: translate(-50%, -50%) rotate(-40deg);
+ }
+ .PaletaAlta2:hover{
+    width: 500px;
+    }
+    
+
+ .PaletaAlta3{
+    background-color: DodgerBlue;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     width: 250px;
+     height: 600px;
+     transform: translate(-50%, -50%) rotate(-10deg);
+ }
+ .PaletaAlta3:hover{
+    width: 500px;
+    }
+ .PaletaAlta4{
+    background-color: LimeGreen;
+     position: absolute;
+     top: 44%;
+     left: 62%;
+     width: 250px;
+     height: 600px;
+     transform: translate(-50%, -50%) rotate(30deg);
+ }
+ 
+ .PaletaAlta4:hover{
+    width: 500px;
+    }
+ .PaletaAlta5{
+    background-color: SeaGreen;
+     position: absolute;
+     top: 60%;
+     left: 70%;
+     width: 250px;
+     height: 600px;
+     transform: translate(-50%, -50%) rotate(100deg);
+ }
+ .PaletaAlta5:hover{
+    width: 500px;
+    }
+
+
+    .section2{
+        width: 80em;
+        height: 50em;
+        
+        left: 10%;
+        position: relative;
+        margin-top: 5%;
+        background: linear-gradient( to left,  Cyan,DeepSkyBlue,GreenYellow,DeepPink,	#4F4F4F);
+    }
+
+    .PaletaAlta6{
+        background-color: #4F4F4F;
+         position: absolute;
+         top: 50%;
+         left: 30%;
+         width: 250px;
+         height: 600px;
+         transform: translate(-50%, -50%) rotate(-100deg);
+     }
+     
+     .PaletaAlta6:hover{
+     width: 500px;
+     }
+     
+     .PaletaAlta7{
+        background-color: DeepPink;
+         position: absolute;
+         top: 50%;
+         left: 40%;
+         width: 250px;
+         height: 600px;
+         transform: translate(-50%, -50%) rotate(-40deg);
+     }
+     .PaletaAlta7:hover{
+        width: 500px;
+        }
+
+        .PaletaAlta8{
+            background-color: GreenYellow;
+             position: absolute;
+             top: 50%;
+             left: 50%;
+             width: 250px;
+             height: 600px;
+             transform: translate(-50%, -50%) rotate(-10deg);
+         }
+         .PaletaAlta8:hover{
+            width: 500px;
+            }
+
+            .PaletaAlta9{
+                background-color: DeepSkyBlue;
+                 position: absolute;
+                 top: 44%;
+                 left: 62%;
+                 width: 250px;
+                 height: 600px;
+                 transform: translate(-50%, -50%) rotate(30deg);
+             }
+             
+             .PaletaAlta9:hover{
+                width: 500px;
+                }
+
+                .PaletaAlta10{
+                    background-color: Cyan;
+                     position: absolute;
+                     top: 60%;
+                     left: 70%;
+                     width: 250px;
+                     height: 600px;
+                     transform: translate(-50%, -50%) rotate(100deg);
+                 }
+                 .PaletaAlta10:hover{
+                    width: 500px;
+                    }
